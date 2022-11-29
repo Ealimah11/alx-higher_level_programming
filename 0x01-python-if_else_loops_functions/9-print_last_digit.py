@@ -1,11 +1,6 @@
 #!/usr/bin/python3
-
-# Author - Tolulope Fakunle
-
-
+# Author - Alimat Bakare
 
 def print_last_digit(number):
-
-        print(abs(number) % 10, end="")
-
-            return (abs(number) % 10)
+    print(abs(number) % 10, end="")
+    return (abs(number) % 10)
